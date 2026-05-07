@@ -1,0 +1,9 @@
+{
+  "name": "AllInMod",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/Hugsterf/slots-allin",
+  "description": "Allows you to bet your entire balance in slots, ignoring level limits. Click All or enter any amount up to your balance.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}

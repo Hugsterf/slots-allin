@@ -1,4 +1,4 @@
-# Slots All-In Mod
+# All-In Mod
 
 Allows you to bet your entire balance in casino games, ignoring level-based MaxBet limits.
 
